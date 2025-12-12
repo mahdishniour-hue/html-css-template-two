@@ -342,7 +342,7 @@ header .container .form i{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     display: flex;
-    background-image: url(/images/Space-Background-Images.jpg);
+    background-image: url(../images/Space-Background-Images.jpg);
     background-size: cover;
     align-items: center;
     height: 600px;
